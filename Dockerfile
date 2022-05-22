@@ -1,4 +1,4 @@
-FROM alpine:3.1
+FROM golang:alpine
 
 LABEL "repository"="https://github.com/vniche/pulumi-alpine"
 LABEL "maintainer"="Vinicius Niche"
